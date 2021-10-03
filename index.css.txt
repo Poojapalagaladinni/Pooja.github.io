@@ -1,4 +1,5 @@
-﻿Blessian D Jutike
+
+Pooja B Palagaladinni
 Student
 * Details
 * Education
@@ -7,11 +8,11 @@ Student
 Details about me
 
 
-Name: Blessian D Jutike
-Age: 30
+Name: Pooja B Palagaladinni
+Age: 21
 Gender: Female
-Email: blessi000@hmail.com
-Phone_no: 9875555555
+Email: poojapalagaladinni@gmail.com
+Phone_no: 7996646949
 Education
 
 
@@ -24,16 +25,14 @@ Cource
 	University
 	Percentage
 	SSCL
-	William Richards High School
-	KSEEB
-	70
-	Diploma
-	Govt Polyechnic Immadihalli
-	DTE
-	68
-	BE
-	New Horizon College
-	VTU
+	Oxford English medium school
+	80.32
+	Puc
+	Oxford pu college
+	73
+	BCA
+	Basaweshwar science College
+	Rani chennamma univercity
 	60
 	
 
@@ -53,14 +52,6 @@ Technical Skills
 * HTML
 * CSS
 * JavaScript
-* Angular
-* Oracle
-* MySQL
-* Python
-* Manual Testing
-* Automation Testing
-* Data Structures
-Project
 
 
 Role: Team member
